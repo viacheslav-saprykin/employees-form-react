@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/employees-form-react/static/css/main.11e25240.chunk.css",
+    "main.js": "/employees-form-react/static/js/main.ae290858.chunk.js",
+    "main.js.map": "/employees-form-react/static/js/main.ae290858.chunk.js.map",
+    "runtime-main.js": "/employees-form-react/static/js/runtime-main.56f1a71d.js",
+    "runtime-main.js.map": "/employees-form-react/static/js/runtime-main.56f1a71d.js.map",
+    "static/js/2.35e871ad.chunk.js": "/employees-form-react/static/js/2.35e871ad.chunk.js",
+    "static/js/2.35e871ad.chunk.js.map": "/employees-form-react/static/js/2.35e871ad.chunk.js.map",
+    "index.html": "/employees-form-react/index.html",
+    "static/css/main.11e25240.chunk.css.map": "/employees-form-react/static/css/main.11e25240.chunk.css.map",
+    "static/js/2.35e871ad.chunk.js.LICENSE.txt": "/employees-form-react/static/js/2.35e871ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f1a71d.js",
+    "static/js/2.35e871ad.chunk.js",
+    "static/css/main.11e25240.chunk.css",
+    "static/js/main.ae290858.chunk.js"
+  ]
+}
